@@ -9,7 +9,7 @@ sections:
       Ini adalah blog peribadi milik Murthadza bin Aznam.
     actions:
       - label: Let's talk
-        url: /contact
+        url: 'https://twitter.com/Thaza_Kun'
         style: icon
         icon: twitter
         new_window: true
