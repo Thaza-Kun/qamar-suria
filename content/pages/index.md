@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Twitter
         url: 'https://twitter.com/Thaza_Kun'
-        style: icon
+        style: button
         icon: twitter
         new_window: true
   - section_id: latest-projects
