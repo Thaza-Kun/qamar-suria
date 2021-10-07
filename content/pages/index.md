@@ -12,6 +12,7 @@ sections:
         url: /contact
         style: icon
         icon: twitter
+        new_window: true
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
