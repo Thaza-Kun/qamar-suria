@@ -11,7 +11,7 @@ sections:
       - label: Let's talk
         url: 'https://twitter.com/Thaza_Kun'
         style: icon
-        icon: dribbble
+        icon: twitter
         new_window: true
   - section_id: latest-projects
     type: section_portfolio
