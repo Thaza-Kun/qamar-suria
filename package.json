@@ -1,6 +1,6 @@
 {
-  "name": "exto-nextjs",
-  "description": "A Stackbit Exto theme built with Next.js",
+  "name": "blog-qamar-suria",
+  "description": "A personal blog built on Next.js with Exto theme",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
