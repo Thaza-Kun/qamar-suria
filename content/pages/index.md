@@ -28,14 +28,14 @@ sections:
       - label: Lanjut
         url: blog
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Hasil Kerja
-    subtitle: Pembentangan hasil kerja aku
-    projects_number: 4
-    view_all_label: Lanjut
-    view_all_url: portfolio
+  # - section_id: latest-projects
+  #   type: section_portfolio
+  #   layout_style: mosaic
+  #   title: Hasil Kerja
+  #   subtitle: Pembentangan hasil kerja aku
+  #   projects_number: 4
+  #   view_all_label: Lanjut
+  #   view_all_url: portfolio
 seo:
   title: Qamar Suria
   description: Blog peribadi Murthadza bin Aznam
