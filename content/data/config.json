@@ -13,62 +13,33 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Murthadza bin Aznam. Hakcipta dipelihara. Laman ini dihasilkan dengan bantuan <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a> dalam tema Exto.",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/Thaza_Kun",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Discord",
+                "url": "https://discord.com/invite/9c6cWVwdEJ",
                 "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
+                "icon": "discord",
                 "new_window": true
             }
         ]
