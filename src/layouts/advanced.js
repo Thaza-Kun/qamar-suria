@@ -31,6 +31,8 @@ export default class Advanced extends React.Component {
                     }
                     const Component = components[component];
                     if (!Component) {
+                        // Kalau nak define ${sectionType} baharu, pastikan ada Section<Name>.js 
+                        // dan ia ditakrif dalam /components/index.js
                         throw new Error(`no component matching the page section's type: ${sectionType}`);
                     }
                     return <Component key={index} section={section} data={data} posts={posts} projects={projects} />;
