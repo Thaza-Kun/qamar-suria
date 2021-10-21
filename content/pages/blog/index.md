@@ -1,11 +1,11 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: 'Tulisan peribadi Murthadza bin Aznam'
 hide_title: false
 col_number: three
 seo:
   title: Blog
-  description: This is the blog page
+  description: Ini adalah muka depan blog.
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +14,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Ini adalah muka depan blog.
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Ini adalah muka depan blog.
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true

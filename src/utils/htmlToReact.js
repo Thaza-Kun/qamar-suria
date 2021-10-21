@@ -7,6 +7,7 @@ import _ from 'lodash';
 const convertChildren = (children, index) => _.map(children, (childNode) => convertNodeToElement(childNode, index, _.noop()));
 
 export default function htmlToReact(html) {
+    // KALAU aku nak tukar parser menjadi MDX, mungkin aku patut buat di sini
     if (!html) {
         return null;
     }
