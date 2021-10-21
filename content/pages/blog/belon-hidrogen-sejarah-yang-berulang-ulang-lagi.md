@@ -3,7 +3,7 @@ title: "Belon Hidrogen: Sejarah yang Berulang-Ulang Lagi"
 subtitle: 'Hidrogen adalah ganti Helium yang murah tetapi berisiko tinggi'
 excerpt: >-
   Hidrogen yang mudah terbakar sudah berkali-kali digunakan sebagai ganti Helium yang nadir untuk mengangkat belon.
-date: '2016-08-28'
+date: '2016-11-28'
 thumb_image: images/letupan-belon-2017.jpg
 thumb_image_alt: Letupan Belon
 image: images/letupan-belon-2017.jpg
@@ -40,9 +40,10 @@ seo:
 layout: post
 ---
 
-<aside class="change-log">
+<aside class="changelog">
 
-Rencana ini asalnya ditulis sebagai sebahagian daripada blog NotaSAINS dengan tajuk "[Belon Hidrogen: Sejarah yang Berulang Lagi](https://notasains.wordpress.com/2016/11/28/belon-hidrogen-sejarah-yang-berulang-lagi/)" pada 28 Nov 2016 tetapi ditulis semula di sini bagi tujuan penyimpanan. Ia juga ada disiarkan di MajalahSains dengan tajuk "[Kejadian Letupan Belon Hidrogen ialah Sejarah yang Berulang Kembali!](https://www.majalahsains.com/kejadian-belon-hidrogen-ialah-sejarah-yang-berulang-kembali/)" pada 21 Mei 2018 dengan izin penulis.
+- Rencana ini asalnya ditulis sebagai sebahagian daripada blog NotaSAINS dengan tajuk "[Belon Hidrogen: Sejarah yang Berulang Lagi](https://notasains.wordpress.com/2016/11/28/belon-hidrogen-sejarah-yang-berulang-lagi/)" pada 28 Nov 2016 tetapi ditulis semula di sini bagi tujuan penyimpanan. 
+- Ia juga ada disiarkan di MajalahSains dengan tajuk "[Kejadian Letupan Belon Hidrogen ialah Sejarah yang Berulang Kembali!](https://www.majalahsains.com/kejadian-belon-hidrogen-ialah-sejarah-yang-berulang-kembali/)" pada 21 Mei 2018 dengan izin penulis.
 
 </aside>
 
