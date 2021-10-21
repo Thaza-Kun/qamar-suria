@@ -42,7 +42,7 @@ layout: post
 
 <aside class="changelog">
 
-- Rencana ini asalnya ditulis sebagai sebahagian daripada blog NotaSAINS dengan tajuk "[Belon Hidrogen: Sejarah yang Berulang Lagi](https://notasains.wordpress.com/2016/11/28/belon-hidrogen-sejarah-yang-berulang-lagi/)" pada 28 Nov 2016 tetapi ditulis semula di sini bagi tujuan penyimpanan. 
+- Rencana ini asalnya ditulis sebagai sebahagian daripada blog NotaSAINS dengan tajuk "[Belon Hidrogen: Sejarah yang Berulang Lagi](https://notasains.wordpress.com/2016/11/28/belon-hidrogen-sejarah-yang-berulang-lagi/)" pada 28 Nov 2016 tetapi ditulis semula di sini bagi tujuan penyimpanan. Penggunaan "ProjekSAINS" pada gambar tajuk adalah artifak dari sana.
 - Ia juga ada disiarkan di MajalahSains dengan tajuk "[Kejadian Letupan Belon Hidrogen ialah Sejarah yang Berulang Kembali!](https://www.majalahsains.com/kejadian-belon-hidrogen-ialah-sejarah-yang-berulang-kembali/)" pada 21 Mei 2018 dengan izin penulis.
 
 </aside>

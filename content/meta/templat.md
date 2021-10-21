@@ -39,3 +39,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
+<aside class="changelog">
+
+- Blog ini ada diterbitkan dalam apa bentuk lain tak?
+- Ataupun blog ini adalah salinan dari tempat lain?
+
+</aside>

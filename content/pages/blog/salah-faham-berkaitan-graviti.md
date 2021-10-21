@@ -5,9 +5,9 @@ excerpt: >-
   Graviti adalah daya yang mudah disalahfahami sebagai daya antara dua jasad besar seperti planet, dan lain-lain salah faham.
 date: '2016-11-23'
 thumb_image: images/sistem-suria.jpg
-thumb_image_alt: Letupan Belon
+thumb_image_alt: Sistem Suria
 image: images/sistem-suria.jpg
-image_alt: Letupan Belon
+image_alt: Sistem Suria
 seo:
   title: "Lima Salah Faham Berkaitan Graviti"
   description: >-
